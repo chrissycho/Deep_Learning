@@ -14,7 +14,7 @@ In this module, we've learned building a basic neural network and deep learning 
 
 <a name="resc"></a>
 ## Resources
-- Data Source: [Alphabet Soup Challenge Data]()
+- Data Source: [Alphabet Soup Challenge Data](https://github.com/chrissycho/Deep_Learning/blob/main/challenge/charity_data.csv)
 - Software: Jupyter Notebook, Python3 
 
 <a name="obj"></a>
